@@ -32,16 +32,16 @@ class PedidoPizza:
 
 ## Requisitos
 
-Verifique se o sistema está instalado o Python 3 ou superior
+Verifique se o sistema está instalado o Python 3 ou superior.
 
 
 ## Como utilizar o sistema
 
 Execute o código Python.
 
-Utilize o teclado para cadastrar os clientes e selecionar as opções apresentadas
+Utilize o teclado para cadastrar os clientes e selecionar as opções apresentadas.
 
-O programa se encerra ao selecionar a opção "5 - Fechar Delivery"
+O programa se encerra ao selecionar a opção "5 - Fechar Delivery".
 
 ## Autores
 
