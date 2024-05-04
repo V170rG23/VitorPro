@@ -8,12 +8,26 @@ cadastro de clientes.
 ## Estrutura de Dados
 
 O sistema utiliza listas encadeadas simples para guardar os clientes cadastrados. 
-A classe ListaClientes será utilizada para adicionar, pesquisar e exibir os clientes.
+A classe Cliente recebe o cadastro, a classe ListaClientes será utilizada para adicionar, pesquisar e exibir os clientes.
+A classe PedidoPizza recebe o pedido.
 
 ```bash
+class Cliente:
+  def __init__(self, nome, telefone, endereco):
+    self.nome = nome
+    self.telefone = telefone
+    self.endereco = endereco
+    self.proximo = None
+
 class ListaClientes:
   def __init__(self):
     self.inicio = None
+
+class PedidoPizza:
+    def __init__(self, cliente, sabor, preco):
+      self.cliente = cliente
+      self.sabor = sabor
+      self.preco = preco
 ```
 
 ## Requisitos
