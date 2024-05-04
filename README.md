@@ -37,3 +37,8 @@ Vitor Amorim - 190118261@aluno.unb.br
 [Playlist 1](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp)
 
 [Stack Overflow](https://pt.stackoverflow.com/questions/480020/cadastro-infinito-de-cliente)
+
+[Link](https://awari.com.br/lista-encadeada-em-python-aprenda-a-estrutura-de-dados-essencial-para-programacao/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20Encadeada%20em%20Python:%20Aprenda%20a%20Estrutura%20de%20Dados%20Essencial%20para%20Programa%C3%A7%C3%A3o)
+
+
+
