@@ -40,5 +40,6 @@ Vitor Amorim - 190118261@aluno.unb.br
 
 [Link](https://awari.com.br/lista-encadeada-em-python-aprenda-a-estrutura-de-dados-essencial-para-programacao/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20Encadeada%20em%20Python:%20Aprenda%20a%20Estrutura%20de%20Dados%20Essencial%20para%20Programa%C3%A7%C3%A3o)
 
+[Link](https://pt.stackoverflow.com/questions/533924/como-preencher-uma-linkedlist-listas-encadeadas-no-python-atrav%C3%A9s-das-entradas)
 
 
