@@ -8,7 +8,7 @@ cadastro de clientes e seus pedidos.
 ## Estrutura de Dados
 
 O sistema utiliza listas encadeadas simples para guardar os clientes cadastrados. 
-A classe Cliente recebe o cadastro, a classe ListaClientes será utilizada para adicionar, pesquisar e exibir os clientes.
+A classe Cliente recebe os dados para cadastro, a classe ListaClientes será utilizada para adicionar, pesquisar e exibir os clientes.
 A classe PedidoPizza recebe o pedido.
 
 ```bash
