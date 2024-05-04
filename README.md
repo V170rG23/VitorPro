@@ -3,7 +3,7 @@ Sistema de Delivery de Pizzas em Python
 ## Descrição
 
 Este é um projeto de um pequeno sistema de Delivery de Pizzas, utilizando estrutura de dados e listas encadeadas simples para armazenar o 
-cadastro de clientes.
+cadastro de clientes e seus pedidos.
 
 ## Estrutura de Dados
 
