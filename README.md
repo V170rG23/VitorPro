@@ -32,7 +32,7 @@ class PedidoPizza:
 
 ## Requisitos
 
-Verifique se o sitema está instalado o Python 3 ou superior
+Verifique se o sistema está instalado o Python 3 ou superior
 
 
 ## Como utilizar o sistema
