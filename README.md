@@ -1,4 +1,4 @@
-Sistema Delivery de Pizzas em Python
+Sistema de Delivery de Pizzas em Python
 
 ## Descrição
 
